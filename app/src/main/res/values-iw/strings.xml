@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">תרגיל1</string>
+    <string name="ed_hint">מסרון פה</string>
+    <string name="activity">מסך שני</string>
+    <string name="email">דאור אלקטרוני</string>
+</resources>
